@@ -1,0 +1,7 @@
+{
+  "name": "fuelm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
